@@ -42,7 +42,7 @@
 
 ### Скриншоты конфигурации 
 
-*![Пример формы](https://example.com/images/form.png)*
+[![Форма документа](screenshots/doc_form.png)](screenshots/doc_form.png)
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### Скриншоты конфигурации 2
 
-*![Пример формы](https://example.com/images/form.png)*
+[![Форма документа](screenshots/doc_form.png)](screenshots/doc_form.png)
 
 
 # Структура XML-файла
